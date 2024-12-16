@@ -1,6 +1,6 @@
 # AdventureWorks for Postgres
 
-Original [Github link] (https://github.com/lorint/AdventureWorks-for-Postgres)
+Original [Github link](https://github.com/lorint/AdventureWorks-for-Postgres)
 
 This project provides the scripts necessary to set up the OLTP part of the go-to database used in
 training classes and for sample apps on the Microsoft stack. The result is 68 tables containing HR,
